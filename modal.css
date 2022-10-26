@@ -1,0 +1,17 @@
+.mainModal{
+    background-color: #E38B29;
+    display: flex;
+    width: 36rem;
+    border-radius: 36px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.button img{
+    height: 40px;
+    width: 40px;
+}
+.button img:hover{
+    cursor: pointer;
+}
